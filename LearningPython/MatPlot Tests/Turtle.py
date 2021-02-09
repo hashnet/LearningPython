@@ -6,7 +6,7 @@ ratio = 15/20
 # ratio = 2/1
 # ratio = 3/2
 # ratio = 1/1
-# # ratio = 5/4
+# ratio = 5/4
 
 turtle.speed(0)
 turtle.bgcolor('black')
